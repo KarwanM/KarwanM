@@ -1,4 +1,54 @@
-### Hi there 👋
+<h3 align="center"> Hi there, this is Karwan 👋</h3>
+<h2 align="center">Junior Web Developer</h2>
+
+<h3 align="center">🌱 I’m using</h3>
+
+<h3></h3>
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=dark-pink" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/nodejs-282C34?logo=node.js&logoColor=green" alt="Nodejs logo" title="Nodejs" height="25" />
+  <img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb&logoColor=dark-green" alt="Nodejs logo" title="Nodejs" height="25" />
+</div>
+
+
+</br>
+
+<h3 align="center">🔭 I’m currently working on</h3>
+</br>
+<div align="center">
+  My Portfolio website
+      <p>Code: https://github.com/KarwanM/portfolio</p>
+      <p>Live: https://karwanm.github.io/portfolio/</p>
+  </br>
+  An Entertainment website
+      <p>Code: https://github.com/KarwanM/entertainment</p>
+      <p>Live: https://karwanm.github.io/entertainment/</p>
+</div>
+
+</br>
+
+<h3 align="center">📫 How to reach me</h3>
+</br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=E34F26" alt="Gmail logo" title="Gmail" height="25" />
+  <p>karwan.ismo@gmail.com</p>
+  <a href="https://www.linkedin.com/in/karwan-i/">
+  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  </a>
+  <p>linkedin.com/in/karwan-i</p>
+</div>
+
+
+
+
+
+
+
 
 <!--
 **KarwanM/KarwanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
