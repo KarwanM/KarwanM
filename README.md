@@ -25,13 +25,14 @@
       <p>Code: https://github.com/KarwanM/portfolio</p>
       <p>Live: https://karwanm.github.io/portfolio/</p>
   </br>
+  <!--
   Wordle game
       <p>Code:https://github.com/KarwanM/wordle</p>
       <p>Live:https://karwanm.github.io/wordle</p>
 </div>
 
 </br>
-
+-->
 <h3 align="center">📫 How to reach me</h3>
 </br>
 <div align="center">
