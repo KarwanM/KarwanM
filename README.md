@@ -18,7 +18,7 @@
 
 </br>
 
-<div style="margin: 0 auto;" >
+<div style="margin: 0 auto; width:600px;" >
   
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&show_icons=true&count_private=true)  
