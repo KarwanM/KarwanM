@@ -18,7 +18,7 @@
 
 </br>
 
-<div style="display:flex; justify-content:centre" >
+<div style="margin: 0 auto;" >
   
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&show_icons=true&count_private=true)  
@@ -50,8 +50,10 @@
 <h3 align="center">📫 How to reach me</h3>
 </br>
 <div align="center">
+  <!-- 
   <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=E34F26" alt="Gmail logo" title="Gmail" height="25" />
   <p>karwan.ismo@gmail.com</p>
+-->
   <a href="https://www.linkedin.com/in/karwan-i/">
   <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   </a>
