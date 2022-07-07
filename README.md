@@ -57,7 +57,6 @@
   <a href="https://www.linkedin.com/in/karwan-i/">
   <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
   </a>
-  <p>linkedin.com/in/karwan-i</p>
 </div>
 
 
