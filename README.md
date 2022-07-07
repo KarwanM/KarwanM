@@ -18,6 +18,12 @@
 
 </br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karwanm)  
+
+</br>
+
 <h3 align="center">🔭 I’m currently working on</h3>
 <!--
 </br>
