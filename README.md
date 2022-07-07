@@ -19,13 +19,14 @@
 </br>
 
 <h3 align="center">🔭 I’m currently working on</h3>
+<!--
 </br>
 <div align="center">
   My Portfolio website
       <p>Code: https://github.com/KarwanM/portfolio</p>
       <p>Live: https://karwanm.github.io/portfolio/</p>
   </br>
-  <!--
+  
   Wordle game
       <p>Code:https://github.com/KarwanM/wordle</p>
       <p>Live:https://karwanm.github.io/wordle</p>
