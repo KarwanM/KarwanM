@@ -19,9 +19,9 @@
   
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&theme=dark&show_icons=true&hide_border=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karwanm&theme=nord_dark)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karwanm&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
 </div>
   
