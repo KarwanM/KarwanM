@@ -3,8 +3,6 @@
 
 <h3 align="center">🌱 I’m using</h3>
 
-<h3></h3>
-  
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
@@ -23,7 +21,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karwanm)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karwanm&theme=nord_dark)  
   
 </div>
   
