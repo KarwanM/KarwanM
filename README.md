@@ -1,5 +1,17 @@
-<h3 align="center"> Hi there, this is</h3>
-<h1 align="center">Karwan 👋 </h1>
+<h3 align="center"; display:inline> Hi there</h3>
+
+
+```javascript
+ const Karwan = {
+    code: [Javascript, HTML, CSS],
+    tools: [React, Nodejs, Express, JSON, Sass],
+    database: [MongoDb],
+    code editor: [VS Code],
+    devTool: [Firefox]
+ }
+```
+
+
 <h2 align="center">Junior Web Developer</h2>
 
 <h3 align="center">🌱 I’m using</h3>
