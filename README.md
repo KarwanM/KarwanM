@@ -1,6 +1,6 @@
 <h3 align="center"; display:inline> Hi there</h3>
 
-
+<div align="center">
 ```javascript
  const Karwan = {
     code: [Javascript, HTML, CSS],
@@ -10,7 +10,7 @@
     devTool: [Firefox]
  }
 ```
-
+</div>
 
 <h2 align="center">Junior Web Developer</h2>
 
