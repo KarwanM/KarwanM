@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, this is Karwan 👋</h3>
+<h3 align="center"> Hi there, this is <h1>Karwan</h1> 👋</h3>
 <h2 align="center">Junior Web Developer</h2>
 
 <h3 align="center">🌱 I’m using</h3>
