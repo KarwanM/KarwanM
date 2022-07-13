@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, this is <span font-size: 75;>Karwan</span> 👋</h3>
+<h3 align="center"> Hi there, this is <span font-size: 150;>Karwan</span> 👋</h3>
 <h2 align="center">Junior Web Developer</h2>
 
 <h3 align="center">🌱 I’m using</h3>
