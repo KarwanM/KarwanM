@@ -1,16 +1,11 @@
-<h2 align="center"; display:inline> Hi there,</h2>
+<h3 align="center"; display:inline> Hi there, this is</h3>
 
-```javascript
- const Karwan = {
-    code: [Javascript, HTML, CSS],
-    tools: [React, Nodejs, Express, JSON, Sass],
-    database: [MongoDb],
-    code editor: [VS Code],
-    devTool: [Firefox]
- }
-```
 
-<h2 align="center">Junior Web Developer</h2>
+<h3 align="center"; font-size=300px> Karwan :wave:</h3>
+
+<h3 align="center">Junior Web Developer</h3>
+
+<hr>
 
 <h3 align="center">🌱 I’m using</h3>
 
@@ -38,8 +33,9 @@
   
   
 </br>
-
+<hr>
 <h3 align="center">🔭 I’m currently working on</h3>
+<hr>
 <!--
 </br>
 <div align="center">
