@@ -23,8 +23,6 @@
   
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karwanm&theme=dark&show_icons=true&count_private=true)  
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karwanm&theme=dark)](https://git.io/streak-stats)
   
 </div>
