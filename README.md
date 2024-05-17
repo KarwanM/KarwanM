@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" alt="Flask logo" title="Flask" height="25" />
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
   <img src="https://img.shields.io/badge/nodejs-282C34?logo=node.js&logoColor=green" alt="Nodejs logo" title="Nodejs" height="25" />
+  <img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=E34F26" alt="AWS logo" title="AWS" height="25" />
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E34F26" alt="Docker logo" title="Docker" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=dark-pink" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
