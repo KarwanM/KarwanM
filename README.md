@@ -21,11 +21,12 @@
 </br>
 
   
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karwanm&theme=dark)](https://git.io/streak-stats)
   
 </div>
+  -->
   
  <!-- 
 </br>
