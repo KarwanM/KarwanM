@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/nodejs-282C34?logo=node.js&logoColor=green" alt="Nodejs logo" title="Nodejs" height="25" />
   <img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=E34F26" alt="AWS logo" title="AWS" height="25" />
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E34F26" alt="Docker logo" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=F7DF1E" alt="MariaDB logo" title="MariaDB" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=dark-pink" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
